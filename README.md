@@ -12,3 +12,9 @@ flowchart TD
     C -- "Yes" --> E["Send retrieved text to local Ollama model"]
     E --> F["Show AI draft and retrieved filename and PDF pages"]
     F --> G["Health worker checks the cited manual pages"]
+
+## Project QR code
+
+Scan this code to open the GitHub repository.
+
+![QR code linking to the project repository](community_health_guideline_navigator_qr.png)
