@@ -1,0 +1,8 @@
+.agents/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+venv/
+.env

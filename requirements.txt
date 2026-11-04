@@ -1,0 +1,5 @@
+langgraph
+ollama
+streamlit
+pypdf
+scikit-learn
